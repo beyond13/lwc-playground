@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/beyond13.lwc-l2fwk3bj-fork-l2fwmsdx",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qYYcHwOcGzUlq3GIosiw --open"
+  }
+}
